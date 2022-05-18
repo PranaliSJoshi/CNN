@@ -1,0 +1,2 @@
+# CNN
+Digit and pixels
